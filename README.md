@@ -4,7 +4,7 @@ A lightweight, browser-based calibration tool to measure and tune the belt tensi
 
 Hosted entirely on **GitHub Pages**, it requires no backend, no installation, and works directly on your mobile phone's browser with a sticky, mobile-first UI.
 
-**→ [Open the app](https://dehil.github.io/Voron-Belt-Tuner/)**
+**→ [Open the app](https://dnshlpmn.github.io/Voron-Belt-Tuner/)**
 
 ![Voron Belt Tuner Preview](https://img.shields.io/badge/Voron-2.4-red)
 ![License](https://img.shields.io/badge/license-GPL--3.0-blue)
